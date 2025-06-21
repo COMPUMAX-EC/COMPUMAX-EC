@@ -31,4 +31,4 @@
 
 - 📧 geovannybasantesq@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/geovanny-basantes-0471b123a/)  
-- 🌐 [Compumax - Tu Socio Tecnológico](#) *(si tienes una web para la empresa de tu papá, sería un buen lugar para vincular)*  
+- 🌐 https://www.compumax.tech/
