@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Geovanny Basantes 👋</h1>
 
-🎓 Estudiante de Ingeniería en Computación | **Compumax**  
+🎓 Ingeniero en Computación | **Compumax**  
 💻 Apasionado por el desarrollo de software, la programación y las tecnologías emergentes  
 🚀 En proceso de formación profesional y contribuciones a proyectos con impacto social y educativo  
 🔬 Actualmente colaborando en proyectos de realidad virtual, simuladores interactivos y soluciones tecnológicas.
