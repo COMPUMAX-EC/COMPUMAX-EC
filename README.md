@@ -1,34 +1,19 @@
-<h1 align="center">¡Hola! Soy Geovanny Basantes 👋</h1>
+<h1 align="center">Hi there! I'm Geovanny Basantes 👋</h1>
 
-🎓 Ingeniero en Computación | **Compumax**  
-💻 Apasionado por el desarrollo de software, la programación y las tecnologías emergentes  
-🚀 En proceso de formación profesional y contribuciones a proyectos con impacto social y educativo  
-🔬 Actualmente colaborando en proyectos de realidad virtual, simuladores interactivos y soluciones tecnológicas.
-
----
-
-### 🛠️ Tecnologías que uso / estoy aprendiendo
-
-- ⚙️ Lenguajes: `Python`, `JavaScript`, `C++`
-- 🌐 Web: `HTML`, `CSS`, `React`, `Node.js`
-- 🧠 IA & Datos: `OpenCV`, `Pandas`, `scikit-learn`
-- 🛢️ Bases de datos: `MySQL`, `MariaDB`, `MongoDB`
-- 🔧 Herramientas: `Git`, `Figma`, `Notion`, `VSCode`
+<p align="center">
+  <b>Computer Science Engineer | Systems Architect & Tech Lead</b><br>
+  Bridging Industrial Automation, Edge Computing, and Cutting-Edge AI Systems
+</p>
 
 ---
 
-### 📌 Proyectos destacados
+### 🚀 About Me
 
-- 🕹️ **Simulador de Realidad Virtual Educativa** – Plataforma desarrollada para apoyar el aprendizaje interactivo  
-- 📊 **Sistema de Inventario Agropecuario** – Gestión inteligente de recursos en el sector agrícola y ganadero  
-- 🤖 **Reconocimiento Facial y Emocional** – Aplicación de inteligencia artificial en entornos educativos para mejorar la interacción  
-
-*Explora más en mis repositorios públicos 📂*
+- 🎓 **Computer Science Engineer** focused on high-throughput backend systems, industrial automation, and scalable intelligent architectures.
+- 🏭 Designing end-to-end industrial solutions: **SCADA architectures, telemetry pipelines, and PLC-to-cloud integrations** via Modbus RTU/TCP and MQTT.
+- 🧠 Building frontier AI applications: **Multi-agent orchestration, RAG pipelines, and predictive analytics/time-series forecasting**.
+- 💼 Developing custom **CRM and business automation workflows** that connect physical telemetry with enterprise software.
 
 ---
 
-### 📬 Conectemos
-
-- 📧 geovannybasantesq@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/geovanny-basantes-0471b123a/)  
-- 🌐 https://www.compumax.tech/
+### 🛠️ Tech Stack & Ecosystem
