@@ -3,7 +3,7 @@
 <!-- HEADER ANIMADO DINÁMICO (Capsule Render SVG) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,40&height=220&section=header&text=Geovanny%20Basantes&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Industrial%20Automation&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- TEXTO MECANOGRAFIADO CON MOVIMIENTO (Typing SVG) -->
+<!-- ANIMATED TYPING TEXT (Typing SVG) -->
 <a href="https://compumax.tech/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Computer+Science+Engineer+%26+Systems+Architect;Industrial+Automation%2C+SCADA+%26+Edge+Telemetry;Frontier+AI+%7C+Multi-Agent+Orchestration+%26+RAG;Autonomous+CRM+%26+Enterprise+Process+Pipelines" alt="Typing SVG" />
 </a>
