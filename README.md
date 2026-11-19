@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER ANIMADO DINÁMICO (Capsule Render SVG) -->
+<!-- ANIMATED HEADER (Capsule Render SVG) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,40&height=220&section=header&text=Geovanny%20Basantes&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Applied%20AI%20for%20Fintech%2C%20GADs%20%26%20Energy&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- ANIMATED TYPING TEXT (Typing SVG) -->
